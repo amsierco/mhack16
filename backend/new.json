@@ -1,0 +1,254 @@
+{
+    "topic": "Baseball Batting",
+    "lessonPlans": [
+      {
+        "title": "The Fundamentals of Batting",
+        "content": "Starting with the basic principles essential to becoming proficient at batting in baseball.",
+        "steps": [
+          {
+            "stepNumber": 1,
+            "description": "Learn the basics of batting stance, grip and swing.",
+            "resources": {
+              "Baseball Basics - Batting and Hitting Basics": "https://www.baseball-tutorials.com/beginner-batting-tips-getting-into-position/279/",
+              "Youth Baseball Basics - Understanding the Swing": "https://youthbaseballinfo.com/the-proper-baseball-swing/"
+            },
+            "tools": {
+              "Baseball bat": [
+                "https://www.dickssportinggoods.com/f/baseball-bats",
+                "https://www.amazon.com/Best-Sellers-Sports-Outdoors-Baseball-Bats/zgbs/sporting-goods/3396081"
+              ],
+              "Batting gloves": [
+                "https://www.underarmour.com/en-us/c/baseball/accessories/batting-gloves/",
+                "https://www.nike.com/w/baseball-gloves-mitts-1gdj0z6ymx6"
+              ]
+            }
+          },
+          {
+            "stepNumber": 2,
+            "description": "Learn about and practice different types of swings and when to use them.",
+            "resources": {
+              "Types of Baseball Swings": "https://probaseballinsider.com/baseball-instruction/hitting-baseball-instruction/proper-baseball-swing/",
+              "Understanding Situational Hitting": "https://thehittingvault.com/situational-hitting-crucial-concepts-to-understand/"
+            },
+            "tools": {
+              "Soft toss machine": [
+                "https://jugs.com/baseball/pitching-machines/",
+                "https://www.heater.com/baseball-pitching-machines.html"
+              ],
+              "Batting tee": [
+                "https://www.tannertees.com/",
+                "https://gourock.com/batting-tees.html"
+              ]
+            }
+          },
+          {
+            "stepNumber": 3,
+            "description": "Work on hand-eye coordination and timing.",
+            "resources": {
+              "Improving Hand-Eye Coordination": "https://rockinrefuel.com/improving-eye-hand-coordination/",
+              "Baseball Timing Drills": "https://www.stack.com/a/baseball-timing-drills"
+            },
+            "tools": {
+              "Wiffle balls": [
+                "https://www.walmart.com/ip/Wiffle-Ball-6-Baseball-Pack-Official-Size/37504917",
+                "https://www.target.com/p/wiffle-ball-9-baseballs-6pk/-/A-51725646"
+              ],
+              "Reaction balls": [
+                "https://www.skls.com/baseball/training-aids/reaction-balls/",
+                "https://www.amazon.com/best-sellers-sports-outdoors-baseball-softball-reaction-balls/zgbs/sporting-goods/5819902011"
+              ]
+            }
+          }
+        ],
+        "exercises": [
+          {
+            "description": "Practice your batting stance in a mirror, focusing on posture and balance.",
+            "searchTerms": [
+              "baseball batting stance mirror drills",
+              "correct batting posture"
+            ]
+          },
+          {
+            "description": "Perform tee work to focus on making consistent contact with the ball.",
+            "searchTerms": [
+              "tee work batting drills",
+              "making contact baseball drills"
+            ]
+          },
+          {
+            "description": "Use wiffle balls and reaction balls to improve hand-eye coordination.",
+            "searchTerms": [
+              "hand-eye coordination drills baseball",
+              "reaction ball batting practice"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Technical Skill Development",
+        "content": "Enhancing the technical aspects of batting, with a focus on power hitting and advanced swing mechanics.",
+        "steps": [
+          {
+            "stepNumber": 1,
+            "description": "Learn how to add power to your swing.",
+            "resources": {
+              "Power Hitting Mechanics": "https://thehittingvault.com/5-keys-to-power-hitting/",
+              "Building Bat Speed": "https://www.stack.com/a/build-bat-speed"
+            },
+            "tools": {
+              "Weighted bats": [
+                "https://www.slugger.com/en-us/training/weighted-bats",
+                "https://www.axebat.com/collections/weighted-training"
+              ],
+              "Swing trainers": [
+                "https://www.insiderbat.com/",
+                "https://www.sklz.com/hitting/swing-trainers/"
+              ]
+            }
+          },
+          {
+            "stepNumber": 2,
+            "description": "Understand and practice the mechanics of different swings for various pitches.",
+            "resources": {
+              "Adjusting to Off-Speed Pitches": "https://www.stack.com/a/off-speed-pitch-hitting",
+              "Hitting Breaking Balls": "https://www.baseball-reference.com/bullpen/Hitting_breaking_balls"
+            },
+            "tools": {
+              "Pitching machine": [
+                "https://www.atecsports.com/",
+                "https://www.spinballsports.com/"
+              ],
+              "Hitting nets": [
+                "https://bownet.net/collections/baseball-nets",
+                "https://powernet.net/collections/baseball"
+              ]
+            }
+          },
+          {
+            "stepNumber": 3,
+            "description": "Practice advanced batting techniques like choke-up swing, two-strike approach, and bat control.",
+            "resources": {
+              "Choke-Up Technique": "https://probaseballinsider.com/baseball-instruction/hitting-approach-with-two-strikes/",
+              "Smart Batting Approaches": "https://www.baseballstrategy.com/adjust-your-approach-at-the-plate"
+            },
+            "tools": {
+              "Small diameter bats": [
+                "https://bamboobat.com/",
+                "https://www.walmart.com/ip/Training-Bat-for-Baseball-Correcting-Swing-Muscle-Training-Bat/831548320"
+              ],
+              "Video analysis software": [
+                "https://www.blastmotion.com/",
+                "https://www.rapsodo.com/baseball/hitting"
+              ]
+            }
+          }
+        ],
+        "exercises": [
+          {
+            "description": "Perform front toss and side toss drills focusing on driving the ball with power.",
+            "searchTerms": [
+              "front toss baseball drills",
+              "side toss power hitting"
+            ]
+          },
+          {
+            "description": "Use the pitching machine to practice hitting different pitch types, focusing on timing and swing adjustments.",
+            "searchTerms": [
+              "pitching machine batting practice",
+              "hitting various pitch types drill"
+            ]
+          },
+          {
+            "description": "Practice with different bat weights and types to improve bat control and swing adaptability.",
+            "searchTerms": [
+              "bat weights training drills",
+              "swing adaptability practice"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Mental and Strategy Development",
+        "content": "Developing the mental approach and strategic thinking crucial to successful batting.",
+        "steps": [
+          {
+            "stepNumber": 1,
+            "description": "Focus on the mental preparation and mindset for batting.",
+            "resources": {
+              "Mindset Principles for Batters": "https://mindfulathlete.org/10-mindset-principles-powerful-batting/",
+              "Prepare Your Mind for Game Day": "https://www.baseballprospectjournal.com/how-to-prepare-mentally-before-a-game/"
+            },
+            "tools": {
+              "Mindfulness and visualization apps": [
+                "https://www.headspace.com/",
+                "https://www.calm.com/"
+              ],
+              "Sports psychologist consultations": [
+                "https://www.apa.org/topics/sport-rehabilitation/psychologists",
+                "https://www.psychologytoday.com/us/therapists/sports-performance"
+              ]
+            }
+          },
+          {
+            "stepNumber": 2,
+            "description": "Understand in-game strategy, pitch selection, and count management.",
+            "resources": {
+              "Baseball Situational Hitting": "https://baseballmadefun.com/situational-hitting-to-win/",
+              "Pitch Count Strategy": "https://probaseballinsider.com/baseball-instruction/hitting/hitting-against-different-pitch-counts/"
+            },
+            "tools": {
+              "Strategy books and videos": [
+                "https://www.amazon.com/Baseballs-Playing-Big-Strategy-Situational/dp/1606794080",
+                "https://www.baseballtutorials.com/"
+              ],
+              "Baseball simulator games": [
+                "https://www.mlb.com/games/sand-lot/slugging-percentage",
+                "https://www.kongregate.com/baseball-games"
+              ]
+            }
+          },
+          {
+            "stepNumber": 3,
+            "description": "Enhance focus and reaction time against live pitching.",
+            "resources": {
+              "Reacting to Live Pitching": "https://hittingdaily.com/live-pitching-strategies/",
+              "Improving Batting Focus": "https://www.stack.com/a/improve-your-focus-while-batting"
+            },
+            "tools": {
+              "Foam balls for live practice": [
+                "https://www.softball.com/equipment/training-aids/foam-and-wiffle/softballcom-softball-training-balls-12-pack",
+                "https://www.sklz.com/baseball/training-aids/impact-balls/028882.html"
+              ],
+              "High-speed cameras": [
+                "https://www.sony.com/electronics/cameras",
+                "https://www.casio-intl.com/asia/en/dc/exilim/ex_fr100l/"
+              ]
+            }
+          }
+        ],
+        "exercises": [
+          {
+            "description": "Visualization exercises before stepping into the batting box.",
+            "searchTerms": [
+              "baseball hitting visualization",
+              "pre-batting box routine"
+            ]
+          },
+          {
+            "description": "Practice pitch selection drills to enhance decision-making skills at the plate.",
+            "searchTerms": [
+              "pitch selection training",
+              "baseball batting decision-making drills"
+            ]
+          },
+          {
+            "description": "Engaging in simulated games or live batting practice to work on focus and reaction times.",
+            "searchTerms": [
+              "baseball simulated game batting",
+              "live batting practice focus"
+            ]
+          }
+        ]
+      }
+    ]
+  }

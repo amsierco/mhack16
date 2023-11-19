@@ -1,0 +1,123 @@
+{
+  "topic": "Flying",
+  "lessonPlans": [
+    {
+      "title": "Introduction to Flying",
+      "content": "This lesson plan will introduce you to the basics of flying and give you an overview of the necessary skills and knowledge.",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "description": "Research different types of aircraft and their functions.",
+          "resources": {
+            "Aircraft Types 101 book": "",
+            "Online articles on aircraft types": ""
+          },
+          "tools": {
+            "Internet browser": "https://www.lifewire.com/top-internet-browsers-4589106"
+          }
+        },
+        {
+          "stepNumber": 2,
+          "description": "Learn about the principles of flight: lift, weight, thrust, and drag.",
+          "resources": {
+            "Flight Physics textbook": "",
+            "Online videos on the principles of flight": ""
+          },
+          "tools": {
+            "Physics textbook": "https://openstax.org/details/books/college-physics-2e",
+            "Internet browser": "https://www.lifewire.com/top-internet-browsers-4589106",
+            "Flight simulator software": "https://www.flightsimulator.com/"
+          }
+        },
+        {
+          "stepNumber": 3,
+          "description": "Study aviation regulations and safety procedures.",
+          "resources": {
+            "Aviation Regulations Handbook": "",
+            "Online courses on aviation safety": ""
+          },
+          "tools": {
+            "Aviation regulations handbook": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation",
+            "Internet browser": "https://www.lifewire.com/top-internet-browsers-4589106"
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "description": "Design a paper airplane and test its flight capabilities.",
+          "searchTerms": [
+            "Paper airplane design principles",
+            "Aerodynamics of paper airplanes"
+          ]
+        },
+        {
+          "description": "Research local flight schools and their training programs.",
+          "searchTerms": [
+            "Flight schools in [your city/town]",
+            "Private pilot training programs"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Basic Aircraft Controls and Maneuvers",
+      "content": "This lesson plan will teach you about the basic controls of an aircraft and how to perform basic maneuvers.",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "description": "Learn about the primary flight controls: ailerons, elevator, and rudder.",
+          "resources": {
+            "Flight Control Systems textbook": "",
+            "Online tutorials on aircraft controls": ""
+          },
+          "tools": {
+            "Physics textbook": "https://openstax.org/details/books/college-physics-2e",
+            "Internet browser": "https://play.google.com/store/apps/details?id=com.sec.android.app.sbrowser&hl=en_US&gl=US",
+            "Flight simulator software": "https://www.flightsimulator.com/"
+          }
+        },
+        {
+          "stepNumber": 2,
+          "description": "Practice controlling the aircraft's attitude: pitch, roll, and yaw.",
+          "resources": {
+            "Flight Simulator 2020 software": "",
+            "Online tutorials on aircraft attitude control": ""
+          },
+          "tools": {
+            "Flight simulator software": "https://www.x-plane.com/",
+            "Internet browser": "https://www.lifewire.com/top-internet-browsers-4589106"
+          }
+        },
+        {
+          "stepNumber": 3,
+          "description": "Learn and practice basic maneuvers such as climbing, descending, and turning.",
+          "resources": {
+            "Flight Maneuvers Handbook": "",
+            "Online tutorials on basic aircraft maneuvers": ""
+          },
+          "tools": {
+            "Flight maneuvers handbook": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook",
+            "Internet browser": "https://www.lifewire.com/top-internet-browsers-4589106",
+            "Flight simulator software": "https://www.flightsimulator.com/"
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "description": "Use a flight simulator to practice takeoffs and landings.",
+          "searchTerms": [
+            "Flight simulator software",
+            "Takeoff and landing procedures"
+          ]
+        },
+        {
+          "description": "Find videos of real-world flight maneuvers and analyze the techniques used.",
+          "searchTerms": [
+            "Airplane aerobatic maneuvers",
+            "Advanced flight maneuvers"
+          ]
+        }
+      ]
+    }
+  ]
+}
