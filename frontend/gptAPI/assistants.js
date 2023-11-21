@@ -1,7 +1,7 @@
 import OpenAI from 'openai';
 
 const openai = new OpenAI({
-    apiKey: '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', // Use environment variable for security
+    apiKey: REACT_APP_OPENAI_API,// API key
     dangerouslyAllowBrowser: true // Note: This is a security risk when used in client-side code
 });
 
